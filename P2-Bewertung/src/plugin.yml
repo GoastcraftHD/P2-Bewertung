@@ -1,0 +1,8 @@
+main: de.GoastcraftHD.P2Bewertung.main.Main
+name: PlotBewertung
+author: GoastcraftHD
+version: 0.1.0
+
+commands:
+   PlotBewertung:
+      description: test
